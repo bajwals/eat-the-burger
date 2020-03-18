@@ -10,4 +10,4 @@
 
 ## App in action
 ---
-![alt text](https://i.imgur.com/CoMXrte.png "screenshot")
+![alt text](https://i.imgur.com/eerzdCn.png "screenshot")
